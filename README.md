@@ -90,6 +90,7 @@ To Visit App:
 
 deployement tool used: AWS(Amazon Web Services)
 
+## TEAM 
 👤 **Akash Pathak**
 
 - Github: [@0prodigy](https://github.com/0prodigy)
